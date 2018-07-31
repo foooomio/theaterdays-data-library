@@ -1,5 +1,5 @@
 {
-  "songs": [
+  "normal": [
     {
       "title": "Brand New Theater!",
       "type": "All",
@@ -988,5 +988,24 @@
         "2M+": 460
       }
     }
-  ]
+  ],
+  "special": {
+    "title": "Blooming Star",
+    "type": "All",
+    "time": "2:13",
+    "level": {
+      "2M": 3,
+      "4M": 7,
+      "6M": 12,
+      "MM": 16,
+      "2M+": 11
+    },
+    "notes": {
+      "2M": 103,
+      "4M": 196,
+      "6M": 326,
+      "MM": 515,
+      "2M+": 319
+    }
+  }
 }
