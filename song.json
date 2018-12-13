@@ -780,6 +780,25 @@
       }
     },
     {
+      "title": "PRETTY DREAMER",
+      "type": "Princess",
+      "time": "2:02",
+      "level": {
+        "2M": 4,
+        "4M": 7,
+        "6M": 12,
+        "MM": 17,
+        "2M+": 11
+      },
+      "notes": {
+        "2M": 158,
+        "4M": 249,
+        "6M": 408,
+        "MM": 615,
+        "2M+": 399
+      }
+    },
+    {
       "title": "素敵なキセキ",
       "type": "Princess",
       "time": "2:03",
