@@ -77,6 +77,25 @@
       }
     },
     {
+      "title": "Dreaming!",
+      "type": "All",
+      "time": "2:22",
+      "level": {
+        "2M": 4,
+        "4M": 8,
+        "6M": 13,
+        "MM": 17,
+        "2M+": 12
+      },
+      "notes": {
+        "2M": 180,
+        "4M": 362,
+        "6M": 463,
+        "MM": 726,
+        "2M+": 459
+      }
+    },
+    {
       "title": "THE IDOLM@STER",
       "type": "All",
       "time": "2:21",
