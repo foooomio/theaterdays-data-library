@@ -1331,6 +1331,25 @@
       }
     },
     {
+      "title": "Cherry Colored Love",
+      "type": "Angel",
+      "time": "2:20",
+      "level": {
+        "2M": 4,
+        "4M": 8,
+        "6M": 13,
+        "MM": 17,
+        "2M+": 12
+      },
+      "notes": {
+        "2M": 149,
+        "4M": 321,
+        "6M": 515,
+        "MM": 736,
+        "2M+": 484
+      }
+    },
+    {
       "title": "素敵なキセキ",
       "type": "Princess",
       "time": "2:03",
