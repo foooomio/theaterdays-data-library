@@ -1388,6 +1388,25 @@
       }
     },
     {
+      "title": "Fermata in Rapsodia",
+      "type": "Fairy",
+      "time": "2:08",
+      "level": {
+        "2M": 4,
+        "4M": 7,
+        "6M": 12,
+        "MM": 16,
+        "2M+": 11
+      },
+      "notes": {
+        "2M": 111,
+        "4M": 197,
+        "6M": 355,
+        "MM": 640,
+        "2M+": 349
+      }
+    },
+    {
       "title": "素敵なキセキ",
       "type": "Princess",
       "time": "2:03",
