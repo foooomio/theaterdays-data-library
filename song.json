@@ -1654,6 +1654,25 @@
       }
     },
     {
+      "title": "Special Wonderful Smile",
+      "type": "Angel",
+      "time": "2:24",
+      "level": {
+        "2M": 4,
+        "4M": 7,
+        "6M": 12,
+        "MM": 16,
+        "2M+": 11
+      },
+      "notes": {
+        "2M": 158,
+        "4M": 274,
+        "6M": 413,
+        "MM": 605,
+        "2M+": 384
+      }
+    },
+    {
       "title": "素敵なキセキ",
       "type": "Princess",
       "time": "2:03",
