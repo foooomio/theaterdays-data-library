@@ -134,6 +134,25 @@
       }
     },
     {
+      "title": "Harmony 4 You",
+      "type": "All",
+      "time": "2:07",
+      "level": {
+        "2M": 4,
+        "4M": 7,
+        "6M": 12,
+        "MM": 16,
+        "2M+": 11
+      },
+      "notes": {
+        "2M": 154,
+        "4M": 248,
+        "6M": 391,
+        "MM": 596,
+        "2M+": 370
+      }
+    },
+    {
       "title": "THE IDOLM@STER",
       "type": "All",
       "time": "2:21",
