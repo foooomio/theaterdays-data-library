@@ -2243,6 +2243,25 @@
       }
     },
     {
+      "title": "Tomorrow Program",
+      "type": "Princess",
+      "time": "2:21",
+      "level": {
+        "2M": 3,
+        "4M": 6,
+        "6M": 10,
+        "MM": 15,
+        "2M+": 9
+      },
+      "notes": {
+        "2M": 124,
+        "4M": 216,
+        "6M": 390,
+        "MM": 595,
+        "2M+": 390
+      }
+    },
+    {
       "title": "素敵なキセキ",
       "type": "Princess",
       "time": "2:03",
