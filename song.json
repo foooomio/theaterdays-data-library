@@ -153,6 +153,25 @@
       }
     },
     {
+      "title": "Brand New Theater! 〜Brand New Year Ver.〜",
+      "type": "All",
+      "time": "2:15",
+      "level": {
+        "2M": 4,
+        "4M": 7,
+        "6M": 12,
+        "MM": 17,
+        "2M+": 11
+      },
+      "notes": {
+        "2M": 164,
+        "4M": 281,
+        "6M": 430,
+        "MM": 765,
+        "2M+": 423
+      }
+    },
+    {
       "title": "THE IDOLM@STER",
       "type": "All",
       "time": "2:21",
